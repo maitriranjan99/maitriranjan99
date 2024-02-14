@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Maitriranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=maitriranjan99&show_icons=true&theme=radical)](https://github.com/maitriranjan99)
+[![Maitriranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=maitriranjan99&show_icons=true&theme=great-gatsby)](https://github.com/maitriranjan99/github-readme-stats)
 
 <!--
 **maitriranjan99/maitriranjan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
