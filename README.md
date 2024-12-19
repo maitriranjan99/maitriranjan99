@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning about **Mern stack**
   
-- 💬 Ask me about **Javascript** & **CSS** & **java**
+- 💬 Ask me about **Javascript**,**CSS**,**java**,**python**,**Reactjs** & **Mongodb**
 
 - 📫 How to reach me **maitriranjan99@gmail.com**
 
